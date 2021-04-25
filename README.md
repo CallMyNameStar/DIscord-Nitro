@@ -7,6 +7,6 @@ This version of the Nitro only supports **Windows**.
 ⭐ This generator does not need a proxy, so you have less chance. To get better, I suggest you use a generator that uses a proxy.
 # Run
 > Install Requests
-> ```python star.py or python3 star.py```
+```python star.py or python3 star.py```
 
 enjoy ⭐
